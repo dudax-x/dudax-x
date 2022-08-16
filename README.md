@@ -1,5 +1,5 @@
 - # sobre mim
-- 👋 ola meu nome é @dudax-x
+- 👋 ola meu nome é **@dudax-x**
 - 👀 tenho interese em aprender a programa
 - 💞️meu email de contato é @eduarda.beltrame@escola.pr.gov.br
 - 🌱estou aprendendo 
